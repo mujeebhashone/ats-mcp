@@ -1,0 +1,24 @@
+Sara Malik
+Email: sara.malik@gmail.com | Phone: +92-300-4447890
+Location: Islamabad, Pakistan
+
+SUMMARY
+Backend-focused software engineer with 3 years of experience in Python and cloud infrastructure.
+
+SKILLS
+Python, Django, Flask, FastAPI, PostgreSQL, MySQL, Docker, Kubernetes, AWS, GCP, Linux, Git, Celery, RabbitMQ, Terraform
+
+EXPERIENCE
+Software Engineer - Techlogix (Apr 2022 - Present)
+- Designed and built microservices using FastAPI and PostgreSQL
+- Deployed applications on AWS ECS with Terraform
+- Implemented async task processing with Celery and RabbitMQ
+
+Junior Software Engineer - i2c Inc (Jun 2021 - Mar 2022)
+- Developed REST APIs using Django REST Framework
+- Managed MySQL databases and wrote complex SQL queries
+- Set up monitoring with Prometheus and Grafana
+
+EDUCATION
+BS Software Engineering - NUST, Islamabad (2017 - 2021)
+GPA: 3.8/4.0

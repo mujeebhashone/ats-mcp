@@ -1,0 +1,23 @@
+Senior Full-Stack Developer - TechVentures Lahore
+
+We are looking for a Senior Full-Stack Developer to join our growing engineering team.
+
+Required Skills:
+- JavaScript and TypeScript
+- React or Next.js
+- Node.js with Express
+- MongoDB or PostgreSQL
+- REST APIs
+- Git version control
+
+Preferred Skills:
+- Docker and Kubernetes
+- AWS or GCP cloud services
+- GraphQL
+- CI/CD pipeline experience
+- Team leadership experience
+
+Experience: Minimum 4 years of professional software development experience
+Role Level: Senior
+Location: Lahore, Pakistan (Hybrid)
+Salary: Competitive + benefits

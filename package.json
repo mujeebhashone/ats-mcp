@@ -1,0 +1,23 @@
+{
+  "name": "ats-mcp",
+  "version": "1.0.0",
+  "description": "ATS MCP Server - AI-powered recruitment tools for Claude Desktop",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc --watch"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "dotenv": "^8.2.0",
+    "groq-sdk": "^0.9.0",
+    "mongodb": "^6.12.0",
+    "node-fetch": "^3.3.2",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.1",
+    "typescript": "^5.7.3"
+  }
+}

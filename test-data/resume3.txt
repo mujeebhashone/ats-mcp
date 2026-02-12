@@ -1,0 +1,28 @@
+Usman Ali
+Email: usman.ali@outlook.com | Phone: +92-333-6669012
+Location: Karachi, Pakistan
+
+SUMMARY
+Frontend developer with 2 years of experience specializing in React and mobile development.
+
+SKILLS
+JavaScript, TypeScript, React, React Native, HTML, CSS, Tailwind CSS, Redux, Firebase, Git, Figma, REST APIs
+
+EXPERIENCE
+Frontend Developer - Folio3 (Aug 2023 - Present)
+- Building cross-platform mobile apps using React Native
+- Integrated Firebase authentication and real-time database
+- Collaborated with UI/UX team using Figma designs
+
+Junior Frontend Developer - VentureDive (Jan 2022 - Jul 2023)
+- Developed responsive web interfaces using React and Tailwind CSS
+- Managed global state with Redux Toolkit
+- Worked in agile team with 2-week sprint cycles
+
+Intern - Devsinc (Jul 2021 - Dec 2021)
+- Built landing pages with HTML, CSS, and JavaScript
+- Learned React fundamentals and component-based architecture
+
+EDUCATION
+BS Computer Science - FAST-NUCES, Karachi (2017 - 2021)
+GPA: 3.4/4.0
